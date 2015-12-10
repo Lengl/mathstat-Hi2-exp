@@ -1,4 +1,4 @@
-package com.github.Lengl.Exponential;
+package com.github.Lengl.Generators;
 
 import java.util.Random;
 import java.lang.Math;
